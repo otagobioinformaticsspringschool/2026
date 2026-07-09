@@ -1,9 +1,7 @@
 # About
 
-!!! tip
-    Expressions of interest have closed for 2025 and successful applicants have been emailed.
 
-Bioinformatics Spring School 2025 is a week long training event for researchers, supported by Genomics Aotearoa (GA) and Research Education Advanced Network New Zealand (REANNZ).
+Bioinformatics Spring School 2026 is a week long training event for researchers, supported by Genomics Aotearoa (GA) and Research Education Advanced Network New Zealand (REANNZ).
 
 We will combine talks from researchers and hands on computational workshops (influenced by The Carpentries), covering example bioinformatic workflows. The exact topics will be decided by the organisers based on submitted Expression of Interests.
 
@@ -17,7 +15,7 @@ This event itself will only cost your time (there isn't a $ charge) and lunches 
 
 ## When and where?
 
-- 9:30 - 16:30, 17-21 November 2025 
+- 9:30 - 16:30, 16-20 November 2026 
 - University of Otago, Dunedin, New Zealand
 - This is an in-person event.
 
@@ -144,14 +142,14 @@ Each of the following links to existing workshops in the GA training catalogue a
 
 ## I'm interested! How do I apply?
 
-Expressions of interest have closed for 2025.
+<!-- Expressions of interest have closed for 2025. -->
 
-<!-- 
+
 The Otago Bioinformatics Spring School is a popular event but we have a limited number of places to offer. To keep the process as fair as possible and not 'who got the email first' we invite you to fill in an Expression of interest. 
 
-- Expressions of interest will close midnight 30 September
+- Expressions of interest will open mid-July and close midnight 30 September
 - Applications are open to those residing in New Zealand
 - Selected applicants will be emailed about a week after expressions of interest close.
 
-**[FILL IN THIS FORM TO APPLY](https://docs.google.com/forms/d/e/1FAIpQLSfPwy1gJIebABxq-N0p4BHTb8IF2l9FLwC61Xcs2iYShDm-BA/viewform?usp=dialog)** -->
+<!--**[FILL IN THIS FORM TO APPLY](https://docs.google.com/forms/d/e/1FAIpQLSfPwy1gJIebABxq-N0p4BHTb8IF2l9FLwC61Xcs2iYShDm-BA/viewform?usp=dialog)** -->
 
