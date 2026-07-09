@@ -7,6 +7,13 @@
 	"features": {
 		"ghcr.io/devcontainers-extra/features/mkdocs:2": {},
 		"ghcr.io/devcontainers-extra/features/pipenv:2": {}
+	},
+	"mounts": [
+		"source=${env:SSH_AUTH_SOCK},target=/ssh-agent,type=bind",
+		"source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind"
+	],
+	"remoteEnv": {
+		"SSH_AUTH_SOCK": "/ssh-agent"
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
