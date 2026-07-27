@@ -104,10 +104,10 @@ Time | Session
 
 ### Friday:
 
-- [Reproducibility tasters](Workshop_Descriptions/tasters.md)
-    - Version control with Git
-    - Reproducible documents with Quarto
-    - Virtual environments
+- [Nanopore Sequencing](Workshop_Descriptions/nanopore.md)
+
+- [Version Control with Git](Workshop_Descriptions/git.md)
+
 
 Time | Session
 ---|---
