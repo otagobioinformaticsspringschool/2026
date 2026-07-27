@@ -112,13 +112,13 @@ Time | Session
 Time | Session
 ---|---
 09:30 | Talk
-10:00 | Version Control
+10:00 | Nanopore
 10:30 | Break
-10:50 | Version Control cont.
+10:50 | Nanopore cont.
 12:15 | Lunch
-13:00 | Quarto
+13:00 | Version control
 14:40 | Break
-15:00 | Virtual Environments
+15:00 | Version control cont.
 16:30 | Done
 
 <!-- ## Potential Topics to be included -->
