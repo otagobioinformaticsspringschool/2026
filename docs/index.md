@@ -1,9 +1,12 @@
 # About
 
+!!! info
+    Expressions of interest are now open. To apply please fill in the form linked at the bottom of the page. Expressions close 11:59pm 17th Sept 2026 NZST (GMT+12:00)
+
 
 Bioinformatics Spring School 2026 is a week long training event for researchers, supported by Genomics Aotearoa (GA) and Research Education Advanced Network New Zealand (REANNZ).
 
-We will combine talks from researchers and hands on computational workshops (influenced by The Carpentries), covering example bioinformatic workflows. The exact topics will be decided by the organisers based on submitted Expression of Interests.
+We will combine talks from researchers and hands on computational workshops (influenced by The Carpentries), covering example bioinformatic workflows.
 
 This event is organised by:
 
@@ -37,13 +40,13 @@ This event itself will only cost your time (there isn't a $ charge) and lunches 
 Time | Session
 ---|---
 09:30 | Welcome
-10:00 | Intro HPC
-10:30 | Break
-10:50 | Unix Shell
+10:00 | REANNZ platform orientation
+10:40 | Break
+11:00 | Indigenous Genomic Data
 12:15 | Lunch
-13:00 | Unix Shell cont
+13:00 | Unix Shell
 14:40 | Break
-15:00 | Indigenous Genomic Data
+15:00 | Unix Shell cont
 16:30 | Done
 
 
@@ -147,9 +150,9 @@ Each of the following links to existing workshops in the GA training catalogue a
 
 The Otago Bioinformatics Spring School is a popular event but we have a limited number of places to offer. To keep the process as fair as possible and not 'who got the email first' we invite you to fill in an Expression of interest. 
 
-- Expressions of interest will open mid-July and close midnight 30 September
+- Expressions of interest will open mid-July and close 11:59pm 17th September NZST (GMT+12:00)
 - Applications are open to those residing in New Zealand
 - Selected applicants will be emailed about a week after expressions of interest close.
 
-<!--**[FILL IN THIS FORM TO APPLY](https://docs.google.com/forms/d/e/1FAIpQLSfPwy1gJIebABxq-N0p4BHTb8IF2l9FLwC61Xcs2iYShDm-BA/viewform?usp=dialog)** -->
+**[FILL IN THIS FORM TO APPLY](https://forms.cloud.microsoft/r/XAnJ5uCdUy)**
 
