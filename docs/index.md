@@ -1,7 +1,7 @@
 # About
 
 !!! info
-    Expressions of interest are now open. To apply please fill in the form linked at the bottom of the page. Expressions close 11:59pm 17th Sept 2026 NZST (GMT+12:00)
+    Expressions of interest have now closed and acceptance letters sent out to attendees. 
 
 
 Bioinformatics Spring School 2026 is a week long training event for researchers, supported by Genomics Aotearoa (GA) and Research Education Advanced Network New Zealand (REANNZ).
@@ -145,14 +145,15 @@ Each of the following links to existing workshops in the GA training catalogue a
 
 ## I'm interested! How do I apply?
 
-<!-- Expressions of interest have closed for 2025. -->
+Expressions of interest have closed for 2026. 
 
 
-The Otago Bioinformatics Spring School is a popular event but we have a limited number of places to offer. To keep the process as fair as possible and not 'who got the email first' we invite you to fill in an Expression of interest. 
+<!-- The Otago Bioinformatics Spring School is a popular event but we have a limited number of places to offer. To keep the process as fair as possible and not 'who got the email first' we invite you to fill in an Expression of interest. 
 
 - Expressions of interest will open mid-July and close 11:59pm 17th September NZST (GMT+12:00)
 - Applications are open to those residing in New Zealand
-- Selected applicants will be emailed about a week after expressions of interest close.
+- Selected applicants will be emailed about a week after expressions of interest close.-->
 
-**[FILL IN THIS FORM TO APPLY](https://forms.cloud.microsoft/r/XAnJ5uCdUy)**
+
+
 
