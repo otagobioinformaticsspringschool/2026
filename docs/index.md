@@ -69,6 +69,9 @@ Time | Session
 16:30 | Done
 
 
+!!! dinner "Social event: Dinner"
+    Join us at [Ombrellos Kitchen and Bar](https://www.ombrellos.co.nz/) on Tues 17th from 5:30pm for dinner and drinks (self-funded). A table has been booked for us, please let organiser [Chloe](mailto:chloe.vanderburg@otago.ac.nz) know if you would like to come but did not previously indicate to us that you intended to.  
+
 ### Wednesday:
 
 - [Introduction to Genome Assembly](Workshop_Descriptions/ga.md)
@@ -90,6 +93,12 @@ Time | Session
 16:30 | Done
 
 ### Thursday:
+
+
+
+!!! garden ":blossom: Social event: Morning walk in the Botanic Gardens"
+    Meet at 8 am on Thurs 19th outside the [Information Centre](https://maps.app.goo.gl/djMP14RN6b3hw1aU8) for a leisurely morning stroll through the beautiful Dunedin Botanic Gardens. Be prepared for some hills and gravel paths! We will then walk over together to the Business School around 9 am (~15 mins walk from the Gardens). Café [Aster](https://www.astercafe.co.nz/) in the Gardens is open from 8 am for those that need their caffeine fix early! Weather dependant - alternative day Friday morning. 
+
 
 - [Introduction to RNAseq](Workshop_Descriptions/rna.md)
 
