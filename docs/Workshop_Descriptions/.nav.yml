@@ -10,4 +10,5 @@ nav:
   - "Day 4":
       - rna.md
   - "Day 5":
-      - tasters.md
+      - nanopore.md
+      - git.md
