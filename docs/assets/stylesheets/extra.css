@@ -83,3 +83,41 @@ li.md-nav__item--active:not(li.md-nav__item--nested) {
     -webkit-mask-image: var(--md-admonition-icon--terminal);
             mask-image: var(--md-admonition-icon--terminal);
   }
+
+
+  :root {
+  --md-admonition-icon--dinner: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 9H9V2H7v7H5V2H3v7c0 2.12 1.66 3.84 3.75 3.97V22h2.5v-9.03C11.34 12.84 13 11.12 13 9V2h-2zm5-3v8h2.5v8H21V2c-2.76 0-5 2.24-5 4"/></svg>');
+}
+
+.md-typeset .admonition.dinner,
+.md-typeset details.dinner {
+  border-color: #ff9800;
+}
+.md-typeset .dinner > .admonition-title,
+.md-typeset .dinner > summary {
+  background-color: rgba(255, 152, 0, 0.1);
+}
+.md-typeset .dinner > .admonition-title::before,
+.md-typeset .dinner > summary::before {
+  background-color: #ff9800;
+  -webkit-mask-image: var(--md-admonition-icon--dinner);
+  mask-image: var(--md-admonition-icon--dinner);
+}
+
+:root {
+  --md-admonition-icon--garden: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><circle cx="12" cy="6" r="3.8"/><circle cx="17.7" cy="10.1" r="3.8"/><circle cx="15.5" cy="16.9" r="3.8"/><circle cx="8.5" cy="16.9" r="3.8"/><circle cx="6.3" cy="10.1" r="3.8"/><circle cx="12" cy="12" r="3.5"/></svg>');
+}
+
+.md-typeset .admonition.garden,
+.md-typeset details.garden {
+  border-color: #43a047;
+}
+.md-typeset .garden > .admonition-title,
+.md-typeset .garden > summary {
+  background-color: rgba(67, 160, 71, 0.1);
+  padding-left: 0.6rem; /* removes the gap left for the icon */
+}
+.md-typeset .garden > .admonition-title::before,
+.md-typeset .garden > summary::before {
+  display: none;
+}
