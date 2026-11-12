@@ -42,11 +42,12 @@ Time | Session
 09:30 | Welcome
 10:00 | REANNZ platform orientation
 10:40 | Break
-11:00 | Indigenous Genomic Data
+11:00 | Unix Shell
 12:15 | Lunch
 13:00 | Unix Shell
+14:00 | Project Orientation
 14:40 | Break
-15:00 | Unix Shell cont
+15:00 | Genomic Data Carpentry
 16:30 | Done
 
 
@@ -58,10 +59,9 @@ Time | Session
   
 Time | Session
 ---|---
-09:30 | Talk
-10:00 | Genomic Data Carpentry
-10:30 | Break
-10:50 | Genomic Data Carpentry
+09:30 | Genomic Data Carpentry
+10:40 | Break
+11:00 | Indigenous Genomic Data
 12:15 | Lunch
 13:00 | Genomic Data Carpentry
 14:40 | Break
